@@ -2,7 +2,7 @@
 
 This page is a companion website to the manuscript: 
 
-Verhulst, B., & Neale, M.C. (Under Review) Best Practices for Binary or Ordinal Data Analysis.
+Verhulst, B., & Neale, M.C. (2021) Best Practices for Binary or Ordinal Data Analysis. Behavior Genetics Volume 51, pages 204–214.
 
 In the paper, we conduct a series of simualation studies to assess the bias that accrues in estimates of Pearson product-moment correlations when they are applied to ordinal data.
 
